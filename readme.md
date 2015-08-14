@@ -12,4 +12,4 @@ Once vocabulary governance rules are agreed by the ICAN Technical Committee, the
 ###2014###
 - [GCMD V6 Keywords][1]
 
-[1]: ./blob/master/gcmd_v6_keywords.md
+[1]: gcmd_v6_keywords.md
