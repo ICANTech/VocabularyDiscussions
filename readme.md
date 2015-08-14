@@ -11,5 +11,13 @@ Once vocabulary governance rules are agreed by the ICAN Technical Committee, the
 ##Archived Discussions##
 ###2014###
 - [GCMD V6 Keywords][1]
+###2013###
+- [SeaVoX Gazetteer][2]
+###2012###
+- [Launch of MarineRegions.org][3]
+###2011###
 
 [1]: gcmd_v6_keywords.md
+[2]: seavox_gazeteer.md
+[3]: launch_marineregions.md
+[4]: water_quality_thesaurus_global.md
