@@ -7,3 +7,9 @@ Previous discussions, by e-mail, are in the process of being archived within thi
 New discussions should take place within the wiki space associated with this repository.
 
 Once vocabulary governance rules are agreed by the ICAN Technical Committee, they will be posted here for transparency.
+
+##Archived Discussions##
+###2014###
+- [GCMD V6 Keywords][1]
+
+[1]: ./blob/master/gcmd_v6_keywords.md
