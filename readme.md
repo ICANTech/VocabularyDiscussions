@@ -9,11 +9,11 @@ New discussions should take place within the wiki space associated with this rep
 ##ICAN Vocabulary Content Governance##
 The ICAN Technical Committee is the content governance body for the controlled vocabularies developed by ICAN.
 
-In practice, this means that requests for new controlled vocabularies to be devleoped by ICAN, or additonal content for existing ICAN-goverened controlled vocabularies,  must be approved by the technical Committee.
+In practice, this means that requests for new controlled vocabularies to be developed by ICAN, or additional content for existing ICAN-governed controlled vocabularies,  must be approved by the technical Committee.
 
-In order to request a new vocabulary, please open a new Github issue against this repository detailing your request. This enables a fully transparent discussion to take place and it remains visisble even when marked as closed.
+In order to request a new vocabulary, please open a new Github issue against this repository detailing your request. This enables a fully transparent discussion to take place and it remains visible even when marked as closed.
 
-A standing agenda item will be added to the ICAN Technical Committee's virtual meetings (which take place approximately once a month) to review the vocabulary discussion issues and to take appropriate follow-up actoin on any requested vocabularies or terms.
+A standing agenda item will be added to the ICAN Technical Committee's virtual meetings (which take place approximately once a month) to review the vocabulary discussion issues and to take appropriate follow-up action on any requested vocabularies or terms.
 
 Current vocabularies under ICAN Technical Committee governnace include:
 
